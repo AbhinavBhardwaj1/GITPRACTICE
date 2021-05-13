@@ -1,1 +1,2 @@
 file 2
+this is done at time of learning skipping staging area
